@@ -14,14 +14,17 @@ Please see [charter.md](charter.md) for a full breakdown of the project's goals.
 
 🚧 **This project is in early development phase** 🚧
 
-Currently, this repository contains the foundational scaffolding:
+Currently, this repository contains:
 - **[charter.md](charter.md)** - Complete project background, mission, and founding principles
 - **[contributor.md](contributor.md)** - Guidelines for participation and contribution standards
 - **[LICENSE](LICENSE)** - Creative Commons Attribution-ShareAlike 4.0 International terms
+- **[framework/key-concepts.md](framework/key-concepts.md)** - Comprehensive glossary and framework overview
+- **[framework/implementation.md](framework/implementation.md)** - Detailed guidance for both small group and large-scale implementations
+- **[roadmap.md](roadmap.md)** - Project priorities and contribution opportunities
 
-**Coming soon:**
-- Core framework methodology documentation
-- Preliminary implementation guidelines and tools
+**Active development areas:**
+- Small group facilitation process research (see [framework/processes/](framework/processes/))
+- Implementation pilot programs and empirical validation
 
 ## Getting Involved
 
@@ -31,7 +34,9 @@ This project seeks contributors from all walks of life and belief systems who fe
 
 1. **Read the foundational documents:**
    - Start with [charter.md](charter.md) to understand the full vision and background
+   - Review [framework/key-concepts.md](framework/key-concepts.md) for framework terminology and core concepts
    - Review [contributor.md](contributor.md) for participation guidelines and requirements
+   - Check [roadmap.md](roadmap.md) for current priorities and contribution opportunities
 
 2. **Understand the commitment:**
    - Contributors must commit to political neutrality in framework development and ensure their contributions align with this ideal
