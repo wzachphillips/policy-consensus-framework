@@ -10,7 +10,6 @@ The Policy Consensus Framework is an ambitious project to develop a structured, 
 
 Please see [charter.md](charter.md) for a full breakdown of the project's goals.
 
-
 ## Current Status
 
 🚧 **This project is in early development phase** 🚧
@@ -35,11 +34,11 @@ This project seeks contributors from all walks of life and belief systems who fe
    - Review [contributor.md](contributor.md) for participation guidelines and requirements
 
 2. **Understand the commitment:**
-   - Contributors must commit to political neutrality in framework development and ensure their contributions align with this ideal*
+   - Contributors must commit to political neutrality in framework development and ensure their contributions align with this ideal
    - Emphasis on evidence-based discussion and respectful engagement
    - Real name disclosure to maintainers (pseudonyms allowed publicly)
 
-* Note that real-life implementations of this framework are expected to address topics in a politically biased way. The goal here is to ensure the framework does not introduce any bias, even if it is unavoidable in the practical application of the framework.
+Note that real-life implementations of this framework are expected to address topics that are inherently politically biased. The goal here is to ensure the framework does not introduce any bias, even if it is unavoidable in the practical application of the framework.
 
 3. **Begin contributing:**
    - Submit PRs with background statement as outlined in contributor guidelines
@@ -54,10 +53,10 @@ For questions about the project or to begin the contribution process, please ope
 
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE). This means:
 
--  **You can:** Use, modify, and distribute this work
--  **Requirements:** Provide attribution and share derivatives under the same license
--  **Commercial use:** Permitted under the ShareAlike terms
-- � **Original author retains:** Exclusive rights for separate commercial licensing
+- **You can:** Use, modify, and distribute this work
+- **Requirements:** Provide attribution and share derivatives under the same license
+- **Commercial use:** Permitted under the ShareAlike terms
+- **Original author retains:** Exclusive rights for separate commercial licensing
 
 See [LICENSE](LICENSE) for complete terms and [contributor.md](contributor.md) for contributor-specific licensing agreements.
 
