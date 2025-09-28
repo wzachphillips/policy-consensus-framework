@@ -1,6 +1,5 @@
 # Policy Consensus Framework
-**Founding Author: Zach Phillips**
-** Founding Date: 9-27-25
+**Founding Author: Zach Phillips** - **Founding Date: 9-27-25**
 
 ## Project Background
 The current political divide in our country highlights our lack of a reliable framework to navigate information complexity and establish consensus on key issues. The internet and 'always online' culture have created new dynamics in how we discuss societal and political issues, while current social media discourse patterns often amplify division rather than facilitate resolution.
